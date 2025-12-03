@@ -1,0 +1,5 @@
+[
+    "Nov 26 10:59:02 kali sshd[12345]: Failed password for root from 192.168.0.10 port 22 ssh2",
+    "Nov 26 11:01:15 kali sudo:  ravi : TTY=pts\/0 ; PWD=\/home\/ravi ; USER=root ; COMMAND=\/usr\/bin\/apt update",
+    "Nov 26 11:05:23 kali sshd[12346]: Accepted password for ravi from 192.168.0.12 port 22 ssh2"
+]
